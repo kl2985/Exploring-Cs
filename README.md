@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body bgcolor="16e0e0">
+<body bgcolor=<"16e0e0">
    <h1>My great website </h1>
    <p>This is my exploring cs project. </p>
   <font color="red">This is some text!</font>
