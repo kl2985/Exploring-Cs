@@ -24,6 +24,8 @@
   <li>Beagle</li>
   <li>Collie</li>
   <li>Poodle</li>
+  <li>Bulldog</li>
+   <li>Pug</li>
 </ul>
 
  </body>
